@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-    __import__("lets_print")
+__import__("lets_print")
