@@ -1,7 +1,9 @@
 #!/usr/bin/python3
+
 def roman_to_int(r_str):
     if not isinstance(r_str, str) or r_str is None:
         return None
+
     rom_var = {
         "I": 1,
         "V": 5,
