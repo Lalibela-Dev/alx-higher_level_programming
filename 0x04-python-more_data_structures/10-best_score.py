@@ -4,5 +4,5 @@ def best_score(a_dict):
         return None
     _max = max(a_dict.values())
     for key in a_dict:
-        if _max == a_dict[key]:
-            return key
+    if _max == a_dict[key]:
+        return key
